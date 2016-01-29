@@ -1,0 +1,35 @@
+target
+.settings
+.classpath
+.project
+
+.idea/
+*.iml
+*.ipr
+*.iws
+.gradle/
+build/
+mods/
+.idea/libraries
+*.DS_Store
+
+*.class
+
+*_blockstore
+
+# Package Files
+# *.jar
+*.war
+*.ear
+
+# IDEA
+*.iml
+.idea/
+.DS_Store
+local.*
+
+centralwallet
+centralWallet.*
+*.jpg
+/yope-payment-content-counter/
+/dump.rdb

@@ -24,8 +24,10 @@
 * Bitcoinj: http://bitcoinj.github.io
 
 
-Powered by: Yope.io
+## License
+The Careers Networking API is released under the MIT permissive free software license.
 
+## Powered by Yope.io
 - http://www.yope.io
 - http://blog.yope.io
 - https://medium.com/@yopeio

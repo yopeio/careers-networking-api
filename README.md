@@ -21,12 +21,12 @@
 ## Frameworks and library
 * Spring Boot: http://projects.spring.io/spring-boot/
 * Ethereumj: http://ethereumj.io/
-* Bitcoinj: bitcoinj.github.io
+* Bitcoinj: http://bitcoinj.github.io
 
 
 Powered by: Yope.io
 
-http://www.yope.io
-http://blog.yope.io
-https://medium.com/@yopeio
-https://twitter.com/yopeio
+- http://www.yope.io
+- http://blog.yope.io
+- https://medium.com/@yopeio
+- https://twitter.com/yopeio

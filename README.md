@@ -27,6 +27,6 @@
 Powered by: Yope.io
 
 http://www.yope.io
-blog.yope.io
+http://blog.yope.io
 https://medium.com/@yopeio
 https://twitter.com/yopeio

@@ -1,6 +1,32 @@
-* Registration into the blockchain of a candidate, of his education, skills and job experience.
-* Fast search by non-sensitive data, powered by and embedded centralised search engine.
-* Look up and retrieval of full candidate’s information from its contract stored into the blockchain.
-* Pay-for-a-service and advertising-free search. HR and recruiters pay for searching candidates into the network, thanks to a bitcoin micropayment internal system.
-* Data hiding to specific users.
-* Authentication role-based authorization layer.
+# Decentralised, blockchain-based careers networking API
+
+## Main features:
+* Persistence into the blockchain of candidates profiles, education, skills and job experiences.
+* Fast search by non-sensitive data, powered by an embedded centralised search engine.
+* Retrieval of full candidate’s information, given its address, from the contract stored into the blockchain.
+* Pay-for-a-service and advertising-free search. HR and recruiters pay for reading candidates information, thanks to a bitcoin micropayment internal mechanism.
+* Role-based data visualisation. Candidates can choose which information are visible to specific network users roles.
+* Access-token-based authorization layer.
+
+## Minimum prerequisites
+* java 8
+* Apache Maven v.3.0.3
+* Neo4j v.2.3.0
+* Redis v.2.8.12
+* ElasticSearch (TBD)
+
+## System requirements
+* at least 2GB RAM
+
+## Frameworks and library
+* Spring Boot: http://projects.spring.io/spring-boot/
+* Ethereumj: http://ethereumj.io/
+* Bitcoinj: bitcoinj.github.io
+
+
+Powered by: Yope.io
+
+http://www.yope.io
+blog.yope.io
+https://medium.com/@yopeio
+https://twitter.com/yopeio

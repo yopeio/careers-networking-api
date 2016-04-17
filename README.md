@@ -1,3 +1,4 @@
+[Careers networking API has been moved here](https://github.com/yopeio/yope-careers)
 # Decentralised, blockchain-based careers networking API
 
 ## Main features:
